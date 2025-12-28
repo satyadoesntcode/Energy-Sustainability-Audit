@@ -1,0 +1,5 @@
+{
+  "name": "Energy & Sustainability Audit",
+  "description": "A comprehensive commercial building energy audit workflow application based on ASHRAE Level 1 & 2 standards. Features data collection forms, automated EPI benchmarking, end-use visualization, and AI-driven efficiency recommendations.",
+  "requestFramePermissions": []
+}
